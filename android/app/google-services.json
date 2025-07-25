@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1021075192194",
+    "project_id": "rockpapersissor-9d668",
+    "storage_bucket": "rockpapersissor-9d668.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021075192194:android:54574b6d1eda8358df779b",
+        "android_client_info": {
+          "package_name": "com.example.rockpapersissor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021075192194-rc36eo4j2uoqphmur29rp2uums633j7s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rockpapersissor",
+            "certificate_hash": "d302fae1e621b54ad44cdb2b1845546d9cc5835e"
+          }
+        },
+        {
+          "client_id": "1021075192194-6anr8sa37ujc69ft1uckbgomtvl2pnu0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0nL448OEJYhOsR9-hI4nUbMkXqamYoB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021075192194-6anr8sa37ujc69ft1uckbgomtvl2pnu0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
